@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": { 
+          "type": "LineString", 
+          "coordinates": [[-122.34568058, 47.6233863]]
+        }, 
+        "properties": {
+          "type": "CRIME",
+          "subType": "VEH-THEFT-AUTO", 
+          "month":  9, 
+          "date": 29, 
+          "year": 2016
+        }
+      }, 
+      {
+        "type": "Feature",
+        "geometry": { 
+          "type": "LineString", 
+          "coordinates": [[-122.331861616, 47.615829897]]
+        }, 
+          "properties": {
+            "type": "CRIME",
+            "subType": "ASSLT-NONAGG", 
+            "month":  8, 
+            "date": 29, 
+            "year": 2016
+          }
+      }, 
+        {
+        "type": "Feature",
+        "geometry": { 
+          "type": "LineString", 
+          "coordinates": [[-123.331861616, 47.615829897]]
+        }, 
+         "properties": {
+            "type": "MARIANNE",
+            "subType": "ASSLT-NONAGG", 
+            "month":  8, 
+            "date": 29, 
+            "year": 2016
+          }
+      }
+    ]
+}
